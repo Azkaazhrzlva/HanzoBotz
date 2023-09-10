@@ -1,5 +1,5 @@
 {
-  "name": "HANZO-MD",
+  "name": "Azkaofc",
   "version": "1.0.0",
   "description": "Yoo~",
   "main": "index.js",
@@ -8,18 +8,18 @@
 	"start": "node index.js"
   },
   "keywords": [
-    "HanzoBotz"
+    "Azka-MD"
   ],
-  "homepage": "https://github.com/KazeDevID/HanzoBotz",
+  "homepage": "https://github.com/Azkaazhrzlva/HanzoBotz",
   "author": {
-    "name": "KazeDevID"
+    "name": "Azka Anti-Dev"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KazeDevID/HanzoBotz.git"
+    "url": "git+https://github.com/Azkaazhrzlva/HanzoBotz.git"
   },
   "bugs": {
-    "url": "https://github.com/KazeDevID/HanzoBotz/issues"
+    "url": "https://github.com/Azkazhrzlva/HanzoBotz/issues"
   },
   "license": "ISC",
   "dependencies": {
